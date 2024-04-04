@@ -19,7 +19,7 @@
 
 <br>
 
-[![@alan_opk](https://img.icons8.com/fluency/48/000000/instagram-new.png "@alan_opk")](https://www.instagram.com/alan_opk/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@AlanOpresnik")](https://www.linkedin.com/in/alan-opresnik-927b68232/) [![@Alan Opresnik]
+[![@alan_opk](https://img.icons8.com/fluency/48/000000/instagram-new.png "@alan_opk")](https://www.instagram.com/alan_opk/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@AlanOpresnik")](https://www.linkedin.com/in/alan-opresnik-927b68232/)
 
 <br>
 
