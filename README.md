@@ -8,10 +8,9 @@
 ## About Me :
 
 - 🏢 I am currently working as a ** Software Developer** FreeLancer
-- 🏢 Former **FullStack developer** at [Numen]([https://www.ilabs.lk/](https://academianumen.com.ar/))
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
+- 🎓 Studies for Software Engineering at **FullStack developer** at [Numen]([https://www.ilabs.lk/](https://academianumen.com.ar/))
+- 🎓 Studies for English  at [Michigan English College]
+- 🏡'Lives in **Buenos Aires Argentina**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
