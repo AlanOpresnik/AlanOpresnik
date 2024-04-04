@@ -53,12 +53,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 <br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlanOpresnik&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/AlanOpresnik/github-readme-activity-graph)
-
 ---
 
