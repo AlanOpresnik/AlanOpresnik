@@ -29,7 +29,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-<img src="https://i.ibb.co/drkSMdG/free-nodejs-1-226034.webp"/>
+<img src="https://i.ibb.co/yXbp4g0/free-nodejs-1-226034-1.webp"/>
 
 <img src="https://img.iconos8.es/icon/54087/nodejs"/>
 
